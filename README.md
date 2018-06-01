@@ -1,2 +1,2 @@
 # ThreadTest
-C# Thread Test WinForm code
+C# Thread Test
