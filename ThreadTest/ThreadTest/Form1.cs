@@ -61,6 +61,7 @@ namespace ThreadTest {
       }
 
       private string[] testItems = {
+         "Github Push Test",
          "Non Thread",
          "Thread",
          "Thread Pool",
